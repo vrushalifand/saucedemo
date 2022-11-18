@@ -712,3 +712,52 @@
 2022-11-17 17:13:41,765  INFO [main] ASauceDemo1:26 - Apply Validation
 2022-11-17 17:13:41,808  INFO [main] ASauceDemo1:30 - total products selected are->3
 2022-11-17 17:13:42,116  INFO [main] ASauceDemo1:91 - browser is closed
+2022-11-17 22:46:11,995  INFO [main] ASauceDemo1:48 - Browser is opened
+2022-11-17 22:46:12,015  INFO [main] ASauceDemo1:60 - Browser is maximzed
+2022-11-17 22:46:13,913  INFO [main] ASauceDemo1:63 - Url is opened
+2022-11-17 22:46:13,914  INFO [main] ASauceDemo1:64 - Went on LoginPage
+2022-11-17 22:46:14,702  INFO [main] ASauceDemo1:75 - Username is entered
+2022-11-17 22:46:14,782  INFO [main] ASauceDemo1:78 - Password is entered
+2022-11-17 22:46:15,150  INFO [main] ASauceDemo1:81 - Clicked on login Button
+2022-11-17 22:46:15,151  INFO [main] ASauceDemo1:84 - Went on HomePage
+2022-11-17 22:46:15,302  INFO [main] ASauceDemo1:25 - Apply validation in testng using hard assertion
+2022-11-17 22:46:15,307  INFO [main] ASauceDemo1:29 - actaulTitle-Swag Labs
+2022-11-17 22:46:16,780  INFO [main] ASauceDemo1:91 - browser is closed
+2022-11-17 22:46:20,645  INFO [main] ASauceDemo1:48 - Browser is opened
+2022-11-17 22:46:20,652  INFO [main] ASauceDemo1:60 - Browser is maximzed
+2022-11-17 22:46:23,501  INFO [main] ASauceDemo1:63 - Url is opened
+2022-11-17 22:46:23,502  INFO [main] ASauceDemo1:64 - Went on LoginPage
+2022-11-17 22:46:23,878  INFO [main] ASauceDemo1:75 - Username is entered
+2022-11-17 22:46:23,963  INFO [main] ASauceDemo1:78 - Password is entered
+2022-11-17 22:46:24,274  INFO [main] ASauceDemo1:81 - Clicked on login Button
+2022-11-17 22:46:24,275  INFO [main] ASauceDemo1:84 - Went on HomePage
+2022-11-17 22:46:24,746  INFO [main] ASauceDemo1:29 - Clicked on menu Button
+2022-11-17 22:46:25,043  INFO [main] ASauceDemo1:32 - Clicked on logOut Button
+2022-11-17 22:46:25,045  INFO [main] ASauceDemo1:35 - Went on LoginPage
+2022-11-17 22:46:25,048  INFO [main] ASauceDemo1:38 - Apply validation
+2022-11-17 22:46:25,070  INFO [main] ASauceDemo1:41 - actaulTitle-Swag Labs
+2022-11-17 22:46:26,513  INFO [main] ASauceDemo1:91 - browser is closed
+2022-11-17 22:46:30,510  INFO [main] ASauceDemo1:48 - Browser is opened
+2022-11-17 22:46:30,518  INFO [main] ASauceDemo1:60 - Browser is maximzed
+2022-11-17 22:46:33,702  INFO [main] ASauceDemo1:63 - Url is opened
+2022-11-17 22:46:33,703  INFO [main] ASauceDemo1:64 - Went on LoginPage
+2022-11-17 22:46:34,094  INFO [main] ASauceDemo1:75 - Username is entered
+2022-11-17 22:46:34,170  INFO [main] ASauceDemo1:78 - Password is entered
+2022-11-17 22:46:34,488  INFO [main] ASauceDemo1:81 - Clicked on login Button
+2022-11-17 22:46:34,488  INFO [main] ASauceDemo1:84 - Went on HomePage
+2022-11-17 22:46:34,823  INFO [main] ASauceDemo1:22 - Bag Product is selected
+2022-11-17 22:46:34,824  INFO [main] ASauceDemo1:25 - Apply Validation
+2022-11-17 22:46:34,882  INFO [main] ASauceDemo1:29 - actualProductCount-1
+2022-11-17 22:46:36,191  INFO [main] ASauceDemo1:91 - browser is closed
+2022-11-17 22:46:40,241  INFO [main] ASauceDemo1:48 - Browser is opened
+2022-11-17 22:46:40,254  INFO [main] ASauceDemo1:60 - Browser is maximzed
+2022-11-17 22:46:41,960  INFO [main] ASauceDemo1:63 - Url is opened
+2022-11-17 22:46:41,961  INFO [main] ASauceDemo1:64 - Went on LoginPage
+2022-11-17 22:46:42,384  INFO [main] ASauceDemo1:75 - Username is entered
+2022-11-17 22:46:42,446  INFO [main] ASauceDemo1:78 - Password is entered
+2022-11-17 22:46:42,713  INFO [main] ASauceDemo1:81 - Clicked on login Button
+2022-11-17 22:46:42,713  INFO [main] ASauceDemo1:84 - Went on HomePage
+2022-11-17 22:46:43,558  INFO [main] ASauceDemo1:23 - All products will be get selected
+2022-11-17 22:46:43,559  INFO [main] ASauceDemo1:26 - Apply Validation
+2022-11-17 22:46:43,618  INFO [main] ASauceDemo1:30 - total products selected are->3
+2022-11-17 22:46:45,030  INFO [main] ASauceDemo1:91 - browser is closed

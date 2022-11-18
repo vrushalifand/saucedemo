@@ -13,16 +13,4 @@
       </class> <!-- com.saucedemo.TestPack.TC04_VerifyAllProductsAddToCartFunctionality -->
     </classes>
   </test> <!-- Test(failed) -->
-  <test thread-count="5" name="chromeTest(failed)">
-    <parameter name="browserName" value="chrome"/>
-    <classes>
-      <class name="com.saucedemo.TestPack.TC04_VerifyAllProductsAddToCartFunctionality">
-        <methods>
-          <include name="verifyAllProductsAddToCart"/>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-        </methods>
-      </class> <!-- com.saucedemo.TestPack.TC04_VerifyAllProductsAddToCartFunctionality -->
-    </classes>
-  </test> <!-- chromeTest(failed) -->
 </suite> <!-- Failed suite [Suite2] -->
